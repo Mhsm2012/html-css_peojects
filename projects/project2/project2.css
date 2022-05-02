@@ -53,3 +53,20 @@ img{
 	width: 80px;
 }
 
+a{
+    color:red;
+    text-decoration: none;
+}
+a:hover{
+    color:#666666;
+}
+a:active{
+    color: #6cdbcc;
+}
+a:focus{
+    color:black
+}
+ul{
+    list-style-type: upper-alpha;
+    list-style-type: disc;
+}
