@@ -1,0 +1,24 @@
+header{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    color:aqua;
+    text-decoration: solid;
+    text-size-adjust: 12pm;
+    text-transform: uppercase;
+}
+.right h2{
+    color: blue;
+}
+.right{
+    background-color: aqua;
+}
+a{
+    background-color: antiquewhite;
+    color:black;
+}
+img{
+    visibility: hidden;
+    display: none;
+}
